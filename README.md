@@ -16,26 +16,23 @@
 ```bash
 
 ├── bfs
-│   ├── 1234
-│   │   ├── irae.java
-│   │   ├── krrong.cpp
-│   │   ├── kokodak.cpp
-│   │   └── luca.java
-│   └── ...
+│   ├── krrong_1.cpp
+│   ├── krrong_12.cpp
+│   ├── krrong_123.cpp
+│   └── krrong_1234.cpp
 ├── set6
-│   ├── 17503
-│   │   ├── irae.java
-│   │   ├── krrong.cpp
-│   │   ├── kokodak.cpp
-│   │   └── luca.java
-│   └── ...
+│   ├── krrong_17503.cpp
+│   ├── krrong_1051.cpp
+│   ├── krrong_19542.cpp
+│   └── krrong_25631.cpp
 ├── ...
 ...
 ```
 #### 문제 세트로 디렉토리 생성
-#### 하위 디렉토리로 문제 번호 디렉토리 생성
-#### 문제 디렉토리 하위에 {이름}.java 형식으로 풀이 작성
+#### 문제 디렉토리 하위에 `{이름}_{문제번호}.java` 형식으로 풀이 작성
 #### 문제 다 풀면 해당 공용 레포 clone 후 각자의 브랜치에서 작업 후 PR로 제출
+#### PR 제출 방법 : `[이름] 해당 주차 알고리즘 풀이` 
+ex) [크롱] Set6 풀이, [크롱] BFS 풀이
 
 ## 🫶 참여자
 <table>
